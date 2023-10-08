@@ -14,7 +14,8 @@ let difficulty = "easy";
 
 // audio play
 const audioHit = new Audio("../assets/hit.mp3");
-const song = new Audio("../assets/molesong.mp3");
+const song = new Audio("https://github.com/Kevin-Balderrama/whack-a-mole/blob/main/assets/molesong.mp3");
+//https://github.com/Kevin-Balderrama/whack-a-mole/blob/main/assets/molesong.mp3
 
 function playAudio(audioObject) {
   audioObject.play();
