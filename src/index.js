@@ -13,7 +13,7 @@ let points = 0;
 let difficulty = "easy";
 
 // audio play
-const audioHit = new Audio("https://github.com/Kevin-Balderrama/whack-a-mole/blob/main/assets/hit.mp3?raw=true");
+const audioHit = new Audio("../assets/hit.mp3?raw=true");
 const song = new Audio("https://github.com/Kevin-Balderrama/whack-a-mole/blob/main/assets/molesong.mp3?raw=true");
 //https://github.com/Kevin-Balderrama/whack-a-mole/blob/main/assets/molesong.mp3
 
